@@ -1,0 +1,22 @@
+{
+  "name": "MarkdownEditor",
+  "version": "1.0.0",
+  "authors": [
+    "opengl8080 <tomcat.port.8080+github@gmail.com>"
+  ],
+  "main": "editor.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "marked": "~0.3.2",
+    "highlightjs": "~8.0.0",
+    "bootstrap": "~3.2.0"
+  }
+}
